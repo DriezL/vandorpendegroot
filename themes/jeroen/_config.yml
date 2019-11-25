@@ -13,7 +13,7 @@ fancybox: true
 # Sidebar
 sidebar: bottom
 widgets:
- - category
+  - category
 # - tag
 # - tagcloud
 # - archive
@@ -32,7 +32,7 @@ show_count: false
 # Miscellaneous
 google_analytics:
 gauges_analytics:
-favicon: /favicon.png
+favicon: /images/favicon.png
 twitter:
 google_plus:
 fb_admins:

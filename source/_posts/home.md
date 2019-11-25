@@ -13,4 +13,4 @@ openingstijden:  maandag t/m vrijdag  van 7.00-17.30
 
 Email ons: [Hans en Jeroen](INFO@GARAGEVANDORP.NL)
 
-![Jeroen en Hans met hun maatjes](./images/dafenford.jpg "Daf en Ford")
+![Jeroen en Hans met hun vriendjes](./images/dafenford.jpg "Daf en Ford")
