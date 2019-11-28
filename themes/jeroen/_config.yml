@@ -1,6 +1,6 @@
 # Header
 menu:
-  Welkom: /
+  Over: /
   Contact: /contact
   Route: /route
 rss: /atom.xml
