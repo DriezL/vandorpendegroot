@@ -8,7 +8,7 @@ Uiteraard kunt u ook bij ons terecht voor de jaarlijkse A.P.K.II keuring.
 
 
 ```
-openingstijden:  maandag t/m vrijdag  van 7.00-17.30
+openingstijden:  in verband met het coronavirus zijn er gewijzigde openingstijden. U kunt hier telefonisch naar informeren.
 ```
 
 Email ons: [Hans en Jeroen](mailto:info@vandorp-en-degroot.nl/)
