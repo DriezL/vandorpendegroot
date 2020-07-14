@@ -8,7 +8,8 @@ Uiteraard kunt u ook bij ons terecht voor de jaarlijkse A.P.K.II keuring.
 
 
 ```
-openingstijden:  in verband met het coronavirus zijn er gewijzigde openingstijden. U kunt hier telefonisch naar informeren.
+openingstijden:  maandag t/m vrijdag van 7.00 tot 17.30.
+                 Onze vakantie is van 27 juli t/m 14 augustus
 ```
 
 Email ons: [Hans en Jeroen](mailto:info@vandorp-en-degroot.nl/)
