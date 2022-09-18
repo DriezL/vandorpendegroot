@@ -8,7 +8,6 @@
 ### Uiteraard kunt u voor al uw onderhoud, reparaties en de jaarlijkse APK II keuring bij ons terecht. 
 ### email: info@vandorp-en-degroot.nl
 ### telefoon: 070-3861175
-### <span style="color:blue">We zijn gesloten op: donderdag 26 mei (Hemelvaartsdag), maandag 6 juni (2e Pinksterdag) en van maandag 1 t/m vrijdag 19 augustus (zomervakantie).</span>
 <div style="position: absolute; top: 600px; right: 400px;"></div>
 
 ```
