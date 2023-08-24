@@ -8,14 +8,11 @@
 ### Uiteraard kunt u voor al uw onderhoud, reparaties en de jaarlijkse APK II keuring bij ons terecht. 
 ### email: info@vandorp-en-degroot.nl
 ### telefoon: 070-3861175
-<div style="color:blue;"><b>Wij zijn gesloten op:
-Maandag 10 april (2e Paasdag), Donderdag 27 april (Koningsdag), Donderdag 18 mei (Hemelvaartsdag) en op maandag 29 mei (2e Pinksterdag).</b></div>
-</br>
 
 ```
 openingstijden:  maandag t/m vrijdag van 7.00 tot 17.30 uur                 
 ```
-Hans en Jeroen                     | Jeroen Sandra en Hans
+Hans en Jeroen                     | Jeroen, Sandra en Hans
 :-------------------------:|:-------------------------:
 ![](./images/dafenford.jpg "Daf en Ford")  |  ![](./images/JeroenHansSandra.jpg "Jeroen (l) Sandra en Hans (r)")
 
