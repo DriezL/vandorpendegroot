@@ -8,9 +8,9 @@
 ### telefoon: 070-3861175
 
 <span style="color:blue;">
-Wij zijn gesloten van maandag 25 t/m woensdag 27 december as .En op maandag 1 januari 2024. 
+Op maandag 11 juli a.s. sluiten wij om 12:00.
+Ivm de zomervakantie zijn wij gesloten van maandag 29 juli t/m vrijdag 17 augustus.
 </br>
-Donderdag 28 en vrijdag 29 december zijn wij geopend, maar sluiten we om 17.00 uur.
 </span>
 <p></p>
 
