@@ -8,8 +8,8 @@
 ### telefoon: 070-3861175
 
 <span style="color:blue;">
-Op maandag 11 juli a.s. sluiten wij om 12:00.
-Ivm de zomervakantie zijn wij gesloten van maandag 29 juli t/m vrijdag 17 augustus.
+Op donderdag 11 juli a.s. sluiten wij om 12:00 uur.
+Ivm de zomervakantie zijn wij gesloten van maandag 29 juli t/m vrijdag 16 augustus 2024.
 </br>
 </span>
 <p></p>
